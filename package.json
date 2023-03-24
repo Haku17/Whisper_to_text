@@ -1,0 +1,15 @@
+{
+  "name": "whispertotext",
+  "version": "1.0.0",
+  "description": "Real time microphone to text capture, using OpenAi's Whisper",
+  "main": "app.js",
+  "scripts": {
+    "start" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
